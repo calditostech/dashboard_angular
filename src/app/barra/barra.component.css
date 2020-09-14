@@ -1,0 +1,39 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+  color: white;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.home{
+	background-color: green;
+	color: white;
+}
+
+.servicos{
+	background-color: red;
+	color: white;
+}
+
+.contatos{
+	background-color: orange;
+	color: white;
+}
+
+.botao-env {
+	background-color: blue;
+	color: white;
+}
+
